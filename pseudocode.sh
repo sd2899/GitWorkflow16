@@ -60,5 +60,5 @@ git merge release
 
 #push the project in Github Repository
 git push -u origin master
-
+git push --tags
 
